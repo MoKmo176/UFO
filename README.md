@@ -3,7 +3,7 @@
 ## Overview of UFO Sightings Analysis
 
 ### Purpose
-The purpose of this analysis is to use JavaScript to create interactive webpages with UFO Sightings data that can filtered for trend analysis.   Filter Table functions are used to reference data points.  The details of UFO sightings are compliled in data.js, and we use an if-then statement to reference records searched and found based on user search. 
+The purpose of this analysis is to use JavaScript to create interactive webpages consisting of UFO Sightings data. The Javascript functions can filter the data for trend analysis with Filter Table functions that reference data points.  The details of UFO sightings are compliled in data.js, and we use an if-then statement to reference records based on user search. 
 ## Results
 
 - The Placeholders are the example data points that are used to filter data.  Some of the criterion repeats, like Date, Shape, City, State, and Country. We include multple form criteria, so that the searcher can use specificities to filter table data that matches the records in Data.js. 
